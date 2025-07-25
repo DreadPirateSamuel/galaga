@@ -2,7 +2,7 @@
 
 A fast‑paced, endless “Galaga”‑inspired shooter built with **vanilla ES6 JavaScript** and **HTML5 Canvas**.  
 No external dependencies — just drop it into VS Code, open with Live Server, and blast off!
-
+(As of August 2025, there are still updates being made so definitely check back in!)
 ---
 
 ## 🎮 Features
